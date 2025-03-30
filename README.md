@@ -110,6 +110,6 @@ evconnect/
 
 ## 📬 Contact
 
-Kumar Utkarsh - [kutkars24@gmail.com](mailto:kutkars24@gmail.com)
+Rohit Sharma - [rohittsharmaa2005@gmail.com](mailto:rohittsharmaa2005@gmail.com)
 
-Project Link: [https://github.com/Kutkarsh24/EVconnects](https://github.com/Kutkarsh24/EVconnects)
+Project Link: [https://github.com/SharmARohitt/EVconnects](https://github.com/SharmARohitt/EVconnects)
